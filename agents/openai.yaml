@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Product Flow UX Analysis"
+  short_description: "Analyze UX flows from screenshots and links"
+  default_prompt: "Use $product-flow-ux-analysis to analyze this product flow from screenshots or links."
+
+policy:
+  allow_implicit_invocation: true
